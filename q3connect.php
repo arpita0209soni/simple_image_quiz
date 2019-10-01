@@ -17,4 +17,5 @@ if($answer=='salman khan'||'Salman khan'||'Salman Khan'||'salman Khan')
 			header("location: q3.php?wrong_answer");
 			exit();
         }
+//edit
 ?>
